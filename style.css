@@ -10,10 +10,6 @@
 .headerWelcome{ /* header for animals html */
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2em;
-.zooAnimal{
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 }
 #paragraph {
     text-align: center;
@@ -30,4 +26,8 @@ body{
 a{
     text-decoration: none;
     color: hsl(240, 73%, 31%);
+}
+.zooAnimal{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
