@@ -1,13 +1,10 @@
-.link{
+.link{ /*href CSS*/
     padding: 1px;
     text-decoration: none;
     text-align: left;
     color: hsl(240, 73%, 31%);
 }
-.headerWelcome{
-    text-align: center;
-}
-.zooAnimal{
+.headerWelcome{ /*h1 align center*/
     text-align: center;
 }
 .headerWelcome{
